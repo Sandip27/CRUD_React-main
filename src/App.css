@@ -1,0 +1,15 @@
+.app {
+  max-width: 80%;
+  margin: auto;
+}
+
+.nav__bar {
+  height: 60px;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.table {
+  margin-top: 50px;
+}
